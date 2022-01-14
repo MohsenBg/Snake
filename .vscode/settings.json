@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "Fira Code,Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "files.associations": {
+    "*.ejs": "html",
+    "iostream": "cpp",
+    "cstdlib": "cpp"
+  }
+}
+//C:\Users\bagheri\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs
